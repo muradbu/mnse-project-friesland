@@ -1,9 +1,3 @@
-# MANANA10 MNSE Project Friesland
+# MANANA10 MNSE Project Afgevaardigden
 
-Repository voor onze scripts die in versiebeheer moeten zitten.
-
-- Murad Buyukasik
-- Yassir El Ouardi
-- Josephine van Kalkeren
-- Bram Lutterveld
-- Wahdat Rahel
+Repository voor samenwerking voor de afgevaardigden.
